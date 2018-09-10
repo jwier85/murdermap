@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/r-journalism/ytownmurders/raw_data",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

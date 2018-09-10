@@ -1,0 +1,61 @@
+date,hour,address,v_name,v_gender,v_race,v_age,solved_value,solved_label,lon,lat
+1/14/01,2100,"REPUBLIC AVE & ATKINSON AVE, Youngstown, OH",Anton Flint,Male,Black,28,N,Solved,-80.622084,41.120229
+3/31/01,1300,"CANTWELL AVE & CARSON ST, Youngstown, OH",Ernestine Phillips,Female,Black,50,N,Unsolved,-80.583079,41.120727
+4/5/01,700,"CLOISTER AVE & AUGUSTINE AVE, Youngstown, OH",Alyson Buckner,Female,Black,30,N,Solved,-80.572306,41.120069
+4/7/01,0,"HILLMAN ST & SHERWOOD AVE, Youngstown, OH",Brandon M. Pete,Male,Black,16,Y,Solved,-80.663993,41.074559
+4/23/01,500,"ROSEDALE AVE & CHICAGO AVE, Youngstown, OH",Achilles Cummings,Male,Black,41,Y,Solved,-80.670093,41.078198
+5/1/01,1900,"LOGAN AVE & HUBBARD RD, Youngstown, OH",James Robinson,Male,Black,24,N,Unsolved,-80.634014,41.162765
+5/7/01,2100,"EMERY AVE & BIRCH ST, Youngstown, OH",Robert Spencer,Male,Black,NA,N,Solved,-80.647514,41.07855
+7/21/01,200,"LANSDOWNE BLVD & ARCH ST, Youngstown, OH",Alphonso James,Male,Black,41,N,Unsolved,-80.6161,41.104294
+8/26/01,1500,"HUDSON AVE & W PRINCETON AVE, Youngstown, OH",Jonathan McClendon,Male,Black,23,N,Unsolved,-80.6665,41.073468
+9/30/01,200,"MARKET ST & W HYLDA AVE, Youngstown, OH",Terence L. Green,Male,Black,27,N,Unsolved,-80.657755,41.071487
+11/12/01,100,"MERCER ST & HOFFMAN ST, Youngstown, OH",Marcus Bradley,Male,Black,30,N,Solved,-80.668113,41.097163
+11/13/01,1300,"ATKINSON AVE & VAUGHN AVE, Youngstown, OH",Robert J. Mahar,Male,White,39,N,Solved,-80.59607,41.125308
+12/17/01,100,"GLENWOOD AVE & ALMYRA AVE, Youngstown, OH",Daniel Harris Jr.,Male,Black,46,N,Solved,-80.675283,41.069503
+12/18/01,0,"SOUTH AVE & E DEWEY AVE, Youngstown, OH",Lawrence N. Charlton,Male,Black,20,Y,Solved,-80.646195,41.076179
+2/21/02,1500,"ADA ST & POPLAR AVE, Youngstown, OH",Justin Treasic,Male,White,21,N,Solved,-80.674528,41.123987
+2/23/02,400,"MARKET ST & BOSTON AVE, Youngstown, OH",Kendall Rutledge,Male,Black,26,N,Unsolved,-80.659996,41.068477
+4/23/02,100,"HILLMAN ST & W DEWEY AVE, Youngstown, OH",Charles Oliver,Male,Black,46,N,Unsolved,-80.663954,41.076151
+7/15/02,0,"I-680 & HIGH ST, Youngstown, OH",Ashley Keene,Female,Black,15,N,Unsolved,-80.661888,41.100007
+8/27/02,600,"WAVERLY AVE & GREENWOOD ST, Youngstown, OH",John Ragsdale,Male,Black,24,N,Solved,-80.682289,41.114783
+10/3/02,900,"CANTWELL AVE & CARSON ST, Youngstown, OH",Anne Griffin,Female,Black,48,N,Unsolved,-80.583079,41.120727
+4/29/03,200,"W FEDERAL ST & VINDICATOR SQ, Youngstown, OH",Officer Michael Hartzell,Male,White,26,Y,Solved,-80.653776,41.102068
+12/12/03,1800,"I-680 & CONNECTICUT AVE, Youngstown, OH",Robert Smith,Male,White,51,N,Solved,-80.688854,41.107469
+8/25/04,100,"FOSTER ST & W SCOTT ST, Youngstown, OH",Raoul Elliott,Male,Black,35,N,Unsolved,-80.658884,41.110227
+12/25/04,2200,"ROSEDALE AVE & GLENAVEN AVE, Youngstown, OH",Raymond Ford,Male,Black,23,N,Unsolved,-80.670139,41.079753
+12/28/04,1600,"KENMORE AVE & EDWARDS ST, Youngstown, OH",Richard E. Owens,Male,Black,41,N,Solved,-80.666532,41.086847
+3/16/05,1700,"FRANKLIN AVE & MYRTLE AVE, Youngstown, OH",Ollie Shuler,Male,Black,29,N,Unsolved,-80.644152,41.087976
+8/9/05,2200,"FEDERAL PLAZA E & E BOARDMAN ST, Youngstown, OH",Michael S. Olenik Jr.,Male,White,28,Y,Solved,-80.643153,41.097296
+8/16/05,2300,"PYATT ST & ERIE ST, Youngstown, OH",Matthew J. Saunders,Male,White,40,Y,Solved,-80.652835,41.089084
+10/28/05,900,"VITTORIA AVE & WARDLE AVE, Youngstown, OH",Damon Stevenson,Male,Black,34,N,Unsolved,-80.596826,41.126267
+11/20/05,300,"ERIE ST & EARLE AVENUE, Youngstown, OH",Tahnee Y. Jackson,Female,Black,29,Y,Solved,-80.652756,41.078519
+7/12/06,400,"ELM ST & SARANAC AVE, Youngstown, OH",Mark Smith,Male,Black,24,N,Unsolved,-80.645338,41.122646
+11/17/06,2200,"KENYON AVE & MILLARD AVE, Youngstown, OH",Michael Broomsey,Male,Black,53,N,Unsolved,-80.59032,41.126965
+7/16/07,200,"WICK AVE & RAYEN AVE, Youngstown, OH",Justin Fields,Male,Black,21,N,Unsolved,-80.647083,41.103005
+9/30/07,400,"CENTER ST & HICKORY ST, Youngstown, OH",Ivan Cruz,Male,Hispanic,27,N,Unsolved,-80.615782,41.085965
+12/13/07,0,"SHEHY ST & BRUCE ST, Youngstown, OH",Leonardo Bermude,Male,Hispanic,25,N,Unsolved,-80.627091,41.094838
+3/26/08,400,"LIBERTY RD & ATKINSON AVE, Youngstown, OH",Ronnell D. Matthews,Male,Black,20,N,Unsolved,-80.601437,41.125057
+8/20/08,1400,"MCGUFFEY RD & STEWART AVE, Youngstown, OH",Sirtan Alli,Male,Black,19,Y,Solved,-80.624317,41.110779
+3/26/09,1500,"MILTONIA AVE & KNAPP AVE, Youngstown, OH",Marvin Chambers,Male,Black,33,N,Unsolved,-80.582762,41.131761
+4/3/09,700,"I680 NB RAMP & SALT SPRINGS, Youngstown, OH",Kendal Ware,Male,Black,34,N,Unsolved,-80.692699,41.119088
+5/30/09,1300,"JACOBS RD & KENYON AVE, Youngstown, OH",Ashten Jackson,Male,Black,17,Y,Solved,-80.587388,41.126974
+8/23/09,800,"TOD LN & KENSINGTON AVE, Youngstown, OH",James Cummings,Male,Black,29,N,Unsolved,-80.641753,41.124299
+10/4/09,200,"NORTH AVE & ARLINGTON ST, Youngstown, OH",Darrick Hall,Male,Black,23,Y,Solved,-80.656899,41.108566
+12/11/09,1200,"ZENTS AVE & LOGAN AVE, Youngstown, OH",Kevin Hart,Male,Black,38,Y,Solved,-80.638204,41.118671
+2/19/10,2100,"SOUTH AVE & DEWEY AVE, Youngstown, OH",Mark Trulson,Male,White,NA,Y,Solved,-80.646229,41.076195
+11/16/11,1000,"GERWIG AVE & KNAPP AVE, Youngstown, OH",Raymond Hayes,Male,Black,20,N,Solved,-80.582702,41.126717
+6/29/12,0,"GRANADA AVE & FIFTH AVE, Youngstown, OH",Alfred A. Griffin Jr.,Male,Black,38,N,Unsolved,-80.651561,41.130988
+10/17/12,1100,"BISSELL AVE & KENSINGTON AVE, Youngstown, OH",Mark S. Haskins,Male,Black,57,Y,Solved,-80.641794,41.118395
+7/27/13,2200,"E HIGH AVE & N TRUESDALE AVE, Youngstown, OH",William A. McClain,Male,Black,39,N,Unsolved,-80.625878,41.102096
+9/28/13,300,"S TRUESDALE AVE & SHEHY ST, Youngstown, OH",Frank James Brown,Male,Black,33,Y,Solved,-80.625812,41.095016
+10/25/13,1200,"FLEMING ST & WORTHINGTON AVE, Youngstown, OH",Mason Fleming,Male,Black,18,N,Unsolved,-80.66635,41.11631
+3/29/14,0,"SOUTH AVE & E MIDLOTHIAN BLVD, Youngstown, OH",Dajohn Neely,Male,Black,20,Y,Solved,-80.644934,41.060815
+10/2/14,2200,"SOUTH AVE & DEWEY AVE, Youngstown, OH",Jesse Daviduk,Male,White,21,Y,Solved,-80.646218,41.076167
+4/17/15,2000,"E. PHILADELPHIA AVE & HOMESTEAD AVE, Youngstown, OH",Amos Dothard Jr.,Male,Black,18,N,Unsolved,-80.640313,41.069351
+7/26/15,2200,"MARKET ST & E INDIANOLA AVE, Youngstown, OH",Jarell Brown,Male,Black,18,Y,Solved,-80.657515,41.072504
+11/26/15,1400,"WARDLE AVE & ATKINSON AVE, Youngstown, OH",Trey Chatman,Male,Black,21,N,Unsolved,-80.602168,41.126148
+3/16/16,100,"OAK ST EXT & EARLY RD, Youngstown, OH",Omar Croom,Male,Black,22,N,Unsolved,-80.615691,41.095324
+7/15/16,1300,"SEIFERT AVE & KNAPP AVE, Youngstown, OH",Anthony Bianco,Male,White,51,Y,Solved,-80.582738,41.129426
+2/14/17,1400,"WARDLE AVE & LIBERTY RD, Youngstown, OH",Savon C. Williams,Male,Black,17,N,Unsolved,-80.601583,41.126109
+6/15/17,800,"MARKET ST & W INDIANOLA AVE, Youngstown, OH",Elizabeth Stewart,Female,Black,46,Y,Solved,-80.657569,41.072521
+11/30/17,1500,"E EARLE AVE & ERIE ST, Youngstown, OH",John Doe,Male,White,53,N,Unsolved,-80.652865,41.078486

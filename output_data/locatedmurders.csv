@@ -1,0 +1,392 @@
+date,hour,address,v_name,v_gender,v_race,v_age,solved_value,solved_label,lon,lat
+1/12/01,200,"181 KENMORE, Youngstown, OH",Terrell Mitchum,Male,Black,18,N,Unsolved,-80.6627119,41.0866622
+1/22/01,100,"1350 BERWICK, Youngstown, OH",Antoine D. Barnette,Male,Black,27,N,Unsolved,-80.6144659,41.117767
+1/22/01,100,"1350 BERWICK, Youngstown, OH",Margaret Simons,Female,White,22,N,Unsolved,-80.6144659,41.117767
+2/17/01,1100,"1823 ELM ST, Youngstown, OH",Michael P. Olds,Male,Black,21,Y,Solved,-80.644976,41.125104
+3/8/01,1800,"718 BELMONT, Youngstown, OH",Thomas Hawk,Male,White,65,Y,Solved,-80.6557118,41.111272
+6/4/01,1200,"14 KENMORE, Youngstown, OH",Clint Wright,Male,Black,42,N,Unsolved,-80.6575323,41.0869231
+6/6/01,1300,"279 BENITA, Youngstown, OH",Alexander Scott,Male,Black,19,Y,Solved,-80.6499248,41.1261054
+6/9/01,200,"2326 HILLMAN AVE, Youngstown, OH",Raymond Hayes,Male,Black,20,Y,Solved,-80.664301,41.076364
+9/3/01,300,"464 FERNDALE, Youngstown, OH",Eugene McKinney,Male,Black,25,Y,Solved,-80.669555,41.063795
+9/28/01,2300,"733 PARKVIEW, Youngstown, OH",Scottie Hornbuckle,Male,Black,22,N,Unsolved,-80.676574,41.072495
+10/11/01,1400,"147 N GARLAND, Youngstown, OH",LeRoy Huff Jr.,Male,Black,0,Y,Solved,-80.628136,41.100266
+10/31/01,700,"116 TOD LANE, Youngstown, OH",Hyland Burton IV,Male,Black,23,Y,Solved,-80.6423817,41.1244371
+11/1/01,700,"1723 ROSEDALE, Youngstown, OH",Michael J. Green,Male,Black,52,N,Unsolved,-80.6696031,41.0831263
+11/28/01,200,"35 SYCAMORE, Youngstown, OH",Ollie Hightower,Male,Black,53,N,Unsolved,-80.639512,41.112598
+12/23/01,1500,"3318 SOUTH AVE, Youngstown, OH",Levon Hill Jr.,Male,Black,47,N,Unsolved,-80.646526,41.065712
+12/27/01,2300,"560 WILLIS, Youngstown, OH",Eddie Lenord,Male,Black,39,Y,Solved,-80.671019,41.08409
+1/12/02,2100,"615 BROADWAY, Youngstown, OH",Anthony Talley,Male,Black,19,N,Unsolved,-80.6593311,41.1164222
+3/14/02,400,"CRANDALL PARK, Youngstown, OH",Mikal Allah,Male,Black,20,Y,Solved,-80.6538514,41.1248998
+3/16/02,2000,"527 CAMERON, Youngstown, OH",John Bell,Male,Black,44,N,Unsolved,-80.6452429,41.0779414
+3/19/02,1300,"679 MC BRIDE, Youngstown, OH",Stephen Shackleford,Male,Black,29,Y,Solved,-80.6236414,41.1086633
+3/26/02,100,"330 S TRUESDALE, Youngstown, OH",Ulysses Watkins,Male,Black,55,Y,Solved,-80.6258922,41.0902663
+4/12/02,300,"867 LANSDOWNE, Youngstown, OH",Anthony Carlock,Male,Black,48,N,Unsolved,-80.615795,41.112501
+5/2/02,1100,"33 E LUCIUS, Youngstown, OH",Rakaylah Clark,Female,Black,4,N,Unsolved,-80.659582,41.065953
+5/2/02,1100,"33 E LUCIUS, Youngstown, OH",Ranayja Clark,Female,Black,8,N,Unsolved,-80.659582,41.065953
+5/2/02,1700,"834 E MIDLOTHIAN, Youngstown, OH",Michael Butch,Male,White,89,Y,Solved,-80.640687,41.061878
+6/12/02,300,"2651 VOLNEY, Youngstown, OH",Marquell McClain,Male,Black,21,N,Unsolved,-80.6815638,41.0721966
+7/1/02,0,"61 WHITMAN LANE, Youngstown, OH",Michael Reese,Male,Black,24,N,Unsolved,-80.5961972,41.0917197
+8/9/02,0,"2819 RIDLEY, Youngstown, OH",James Thomas,Male,Black,25,N,Unsolved,-80.591566,41.114497
+8/9/02,0,"2819 RIDLEY, Youngstown, OH",Sean Howard,Male,Black,20,N,Unsolved,-80.591566,41.114497
+8/17/02,2000,"1109 GLENWOOD, Youngstown, OH",Bruce Howard,Male,Black,52,Y,Solved,-80.6709485,41.0891977
+8/27/02,900,"2717 IDLEWOOD, Youngstown, OH",Javon Rogers,Male,Black,79,N,Unsolved,-80.6649224,41.0720137
+9/4/02,400,"604 RIDGE AVE, Youngstown, OH",Charles Green,Male,Black,24,Y,Solved,-80.6621051,41.0946888
+9/8/02,200,"1531 RAVINE, Youngstown, OH",Andre Phillips,Male,Black,17,Y,Solved,-80.620597,41.118727
+9/21/02,1600,"743 PARKVIEW, Youngstown, OH",Jefferson Smith Jr.,Male,Black,57,Y,Solved,-80.6770571,41.0723376
+10/22/02,2100,"544 W GLENAVEN, Youngstown, OH",Jason Jackson,Male,Black,22,Y,Solved,-80.671907,41.080011
+1/20/03,1900,"932 MIAMI, Youngstown, OH",Eric Colon,Male,White,24,N,Unsolved,-80.612562,41.113395
+1/27/03,1800,"99 E MYRTLE, Youngstown, OH",Evelyn Huffman,Female,White,44,Y,Solved,-80.653018,41.087404
+3/9/03,2300,"510 GRIFFITH, Youngstown, OH",Richard Cato,Male,Black,53,N,Unsolved,-80.6619996,41.1103412
+3/12/03,2300,"183 MAYWOOD, Youngstown, OH",Antwan Jones,Male,Black,24,Y,Solved,-80.653799,41.055615
+3/22/03,700,"464 NORWOOD, Youngstown, OH",Larry Robbins,Male,Black,39,Y,Solved,-80.6576117,41.1211446
+3/24/03,2300,"74 RUTLEDGE, Youngstown, OH",Jiycen Dent,Female,Black,0,Y,Solved,-80.5959803,41.0927552
+4/25/03,2000,"2325 TRUSSIT, Youngstown, OH",Dominique Lynch,Female,Black,22,Y,Solved,-80.6382196,41.1307641
+6/18/03,300,"2789 STANSBURY, Youngstown, OH",Tawonna Thomas,Female,Black,21,Y,Solved,-80.6766221,41.1299389
+6/26/03,1600,"411 STEEL ST, Youngstown, OH",John Dielly,Male,White,33,Y,Solved,-80.6826038,41.1079421
+7/27/03,1300,"843 WOODFORD, Youngstown, OH",Milliam C. Lee,Male,Black,17,Y,Solved,-80.6788771,41.0706122
+9/23/03,100,"2000 VAUGHN, Youngstown, OH",Demetrius Chatman,Male,Black,23,N,Unsolved,-80.596168,41.1280733
+10/18/03,1300,"3511 BELDEN, Youngstown, OH",Helen Koscak,Female,White,86,Y,Solved,-80.616834,41.06669
+10/23/03,200,"2121 SOUTH AVE, Youngstown, OH",Michael Lett,Male,Black,20,N,Unsolved,-80.645859,41.078238
+11/23/03,1300,"710 HAYMAN, Youngstown, OH",James Revere,Male,Black,16,Y,Solved,-80.66079,41.1127139
+12/12/03,2200,"610 N GARLAND, Youngstown, OH",Matthew Saunders,Male,Black,29,Y,Solved,-80.6288326,41.1077516
+1/15/04,2000,"123 NEW YORK AVE, Youngstown, OH",Davis Johns,Male,Black,22,N,Unsolved,-80.642652,41.124947
+1/15/04,2000,"123 NEW YORK AVE, Youngstown, OH",Danyale Oliver,Male,Black,20,N,Unsolved,-80.642652,41.124947
+1/15/04,2000,"123 NEW YORK AVE, Youngstown, OH",Nicole Scott,Female,Black,27,N,Unsolved,-80.642652,41.124947
+3/12/04,1300,"434 ALMYRA, Youngstown, OH",Christopher Hodge,Male,Black,28,N,Unsolved,-80.667766,41.0697789
+3/18/04,0,"25 BALDWIN, Youngstown, OH",Birstine Wolfe,Female,Black,63,Y,Solved,-80.6419915,41.1121221
+3/28/04,400,"249 ALAMEDA, Youngstown, OH",Michael L. Jordan,Male,White,25,Y,Solved,-80.648245,41.122782
+4/16/04,1500,"740 KENDIS, Youngstown, OH",Efrin Brown,Male,Black,26,Y,Solved,-80.6124258,41.0936924
+4/26/04,2000,"MCKELVEY LAKE, Youngstown, OH",David Greer,Male,Black,33,N,Unsolved,-80.582033,41.1026288
+5/4/04,1800,"1600 OVERLAND, Youngstown, OH",Tywan Tillis,Male,Black,29,N,Unsolved,-80.669042,41.084701
+5/4/04,1800,"1600 OVERLAND, Youngstown, OH",Henry James Blue,Male,Black,37,N,Unsolved,-80.669042,41.084701
+8/17/04,0,"1367 EAST HIGH, Youngstown, OH",Roberto Rodriquez Lozano,Male,White,26,N,Unsolved,-80.6260358,41.1018871
+11/28/04,200,"60 N BRUCE, Youngstown, OH",James E. Rozenblad Jr.,Male,Black,23,N,Unsolved,-80.6273366,41.0980539
+12/13/04,2100,"758 CAMBRIDGE, Youngstown, OH",Anthony Brock,Male,Black,20,Y,Solved,-80.6406909,41.0650424
+12/18/04,100,"3527 NEILSON, Youngstown, OH",Benedict D. Santana,Male,White,36,N,Unsolved,-80.618585,41.065828
+1/19/05,2300,"2822 MARY, Youngstown, OH",Bellard Zymond,Male,Black,31,Y,Solved,-80.662972,41.0707621
+1/19/05,1900,"930 MLK, Youngstown, OH",Clyde White,Male,Black,24,N,Unsolved,-80.6646543,41.1105055
+2/16/05,1400,"1688 LIBERTY RD, Youngstown, OH",Chad Clinkscale,Male,Black,33,N,Unsolved,-80.601805,41.123406
+3/5/05,2100,"1349 SHEHY, Youngstown, OH",Martin Walker III,Male,Black,32,Y,Solved,-80.626465,41.094605
+3/22/05,2200,"203 W MARION, Youngstown, OH",Allen D. Crockett,Male,Black,31,N,Unsolved,-80.663521,41.084957
+5/7/05,200,"810 MLK, Youngstown, OH",Anthony McBride,Male,Black,38,Y,Solved,-80.6622627,41.1087473
+6/15/05,2100,"144 W DELASON, Youngstown, OH",Sharon D. May,Female,Black,31,Y,Solved,-80.6614116,41.0827715
+6/29/05,2300,"1374 GRANDVIEW, Youngstown, OH",Deandre B. Edwards,Male,Black,18,Y,Solved,-80.625618,41.103221
+7/17/05,2300,"2205 SOUTH AVE, Youngstown, OH",Jermaine Reynolds,Male,Black,49,N,Unsolved,-80.6459149,41.0779377
+8/6/05,1800,"615 LIBERTY RD, Youngstown, OH",Sierra Y. Slaton,Female,Black,19,Y,Solved,-80.593028,41.107115
+8/10/05,1300,"2318 TRUSSIT, Youngstown, OH",James Bowles,Male,White,66,Y,Solved,-80.638729,41.130482
+8/10/05,1700,"83 FALLS AVE, Youngstown, OH",Harold Schuler,Male,Black,40,Y,Solved,-80.659044,41.091183
+8/14/05,900,"202 WILLIS, Youngstown, OH",Harold Dennis,Male,Black,48,N,Unsolved,-80.663389,41.083668
+8/24/05,2200,"3109 GLENWOOD, Youngstown, OH",Shaun Williams,Male,Black,15,Y,Solved,-80.674885,41.067865
+9/8/05,2100,"3318 NELSON, Youngstown, OH",Ralph Miller,Male,White,53,Y,Solved,-80.579746,41.128371
+10/13/05,100,"930 MLK, Youngstown, OH",Donald Hudson,Male,Black,31,Y,Solved,-80.6646543,41.1105055
+10/28/05,2200,"3003 SOUTH AVE, Youngstown, OH",Benjamin Brooks,Male,Black,44,Y,Solved,-80.6458932,41.0691358
+12/13/05,1300,"154 W GLENAVEN, Youngstown, OH",Terry Brisky,Male,Black,19,N,Unsolved,-80.6618451,41.0796851
+1/2/06,1700,"905 HAWTHORN, Youngstown, OH",Arlis Casey,Male,Black,35,Y,Solved,-80.6672194,41.0951833
+2/6/06,1300,"2307 OHIO AVE, Youngstown, OH",Billey Mayes,Male,Black,15,Y,Solved,-80.646267,41.130172
+4/26/06,2000,"520 GRIFFITH, Youngstown, OH",Javonte Covington,Male,Black,1,Y,Solved,-80.6619993,41.1102059
+4/28/06,200,"3130 MARKET ST, Youngstown, OH",Leroy Thomas,Male,Black,37,N,Unsolved,-80.661178,41.067533
+5/2/06,2000,"1960 MCCARTNEY RD, Youngstown, OH",Edward Agee,Male,Black,52,Y,Solved,-80.6049807,41.090665
+5/20/06,1800,"1630 PARK VISTA, Youngstown, OH",Troy Barlow,Male,Black,16,Y,Solved,-80.61961,41.122385
+6/3/06,1600,"18 E AUBURNDALE, Youngstown, OH",Jeffery Foster,Male,Black,43,N,Unsolved,-80.6604594,41.0655204
+7/6/06,2000,"1840 BELMONT AVE, Youngstown, OH",Kirk Sims,Male,Black,32,N,Unsolved,-80.6637088,41.1239538
+7/13/06,100,"1523 HIMROD, Youngstown, OH",George Arroyo,Male,White,40,N,Unsolved,-80.6231738,41.0961531
+7/20/06,1900,"1137 SUNSHINE, Youngstown, OH",Corey Stone,Male,Black,19,Y,Solved,-80.617003,41.115388
+8/19/06,1500,"1840 ERIE, Youngstown, OH",Larry Jones,Male,Black,31,Y,Solved,-80.654151,41.081635
+8/25/06,1600,"30 SARANAC, Youngstown, OH",Charles Bush,Male,Black,21,Y,Solved,-80.6394336,41.1226368
+8/27/06,700,"46 W PHILADELPHIA, Youngstown, OH",Mark Floyd,Male,Black,28,N,Unsolved,-80.6609782,41.0694679
+9/16/06,2100,"17 E AUBURNDALE, Youngstown, OH",Katherine Favors,Female,Black,50,Y,Solved,-80.660498,41.065007
+10/14/06,100,"3317 SOUTH AVENUE, Youngstown, OH",Jason McInnis,Male,White,30,N,Unsolved,-80.6460294,41.0657887
+10/18/06,800,"3119 IDLEWOOD, Youngstown, OH",Curtis Hardaway,Male,Black,38,N,Unsolved,-80.6649224,41.0675644
+10/30/06,500,"1004 VALLEY, Youngstown, OH",Edgar Davis III,Male,Black,22,N,Unsolved,-80.632408,41.105222
+10/30/06,500,"1004 VALLEY, Youngstown, OH",Simone Haskins,Female,Black,20,N,Unsolved,-80.632408,41.105222
+11/3/06,1100,"2118 GLENWOOD AVE, Youngstown, OH",Martwain Dill,Male,Black,23,Y,Solved,-80.675757,41.0787882
+12/16/06,0,"334 FALLS AVE, Youngstown, OH",Carl Davis,Male,Black,36,N,Unsolved,-80.6652691,41.0914353
+12/24/06,200,"426 SHERWOOD, Youngstown, OH",Davonte Kelley,Male,Black,23,N,Unsolved,-80.6675148,41.074528
+1/29/07,2200,"548 W EVERGREEN, Youngstown, OH",Marvin Boone,Male,Black,19,N,Unsolved,-80.671907,41.080877
+1/29/07,2200,"548 W EVERGREEN, Youngstown, OH",Christopher Howard,Male,Black,24,N,Unsolved,-80.671907,41.080877
+2/22/07,1100,"376 RANDOLPH, Youngstown, OH",Richard Helms,Male,Black,43,Y,Solved,-80.6864602,41.1157438
+3/1/07,900,"129 E MARION, Youngstown, OH",Antonio Vega,Male,Hispanic,27,N,Unsolved,-80.6517889,41.085112
+3/13/07,2100,"32 W BOSTON, Youngstown, OH",Donald A. Thompkins,Male,Black,20,N,Unsolved,-80.6611346,41.0685919
+4/15/07,200,"2432 HILLMAN, Youngstown, OH",Damian Hill,Male,Black,30,N,Unsolved,-80.664184,41.075369
+5/5/07,2300,"1473 STEWART, Youngstown, OH",Cherish Moreland,Female,Black,3,Y,Solved,-80.6226705,41.1106967
+5/25/07,1400,"2134 CONCORD, Youngstown, OH",Thomas A. Benhnke,Male,White,55,Y,Solved,-80.6925695,41.113198
+5/26/07,0,"1605 FORD, Youngstown, OH",Maressia Patterson,Female,Black,17,Y,Solved,-80.6528725,41.12116
+6/26/07,2200,"1467 WOODCREST, Youngstown, OH",Terrance E. Brown,Male,Black,27,Y,Solved,-80.6231134,41.1090717
+7/8/07,1900,"3211 SOUTH AVE, Youngstown, OH",William Burr,Male,White,27,Y,Solved,-80.6458932,41.0670282
+7/9/07,200,"1050 MCGUFFEY, Youngstown, OH",Rodney M. Brown,Male,White,45,Y,Solved,-80.6319328,41.1105595
+7/31/07,1300,"72 CENTER ST, Youngstown, OH",Ceonei M. Moore,Male,Black,8,Y,Solved,-80.6167124,41.0852473
+7/31/07,1300,"72 CENTER ST, Youngstown, OH",Helen Moore,Female,Black,29,Y,Solved,-80.6167124,41.0852473
+8/8/07,1200,"357 CARROLL, Youngstown, OH",Antwan Richardson,Male,Black,29,N,Unsolved,-80.666151,41.089993
+10/21/07,2000,"1504 SHEHY, Youngstown, OH",Elmer Antonio Avile Landaverde,Male,Hispanic,34,Y,Solved,-80.6238459,41.0952924
+11/4/07,1800,"2323 OHIO AVE, Youngstown, OH",David Clinkscale,Male,Black,19,Y,Solved,-80.646271,41.130625
+11/9/07,2200,"1374 ATKINSON, Youngstown, OH",Sydney Wesson,Male,Black,22,N,Unsolved,-80.622434,41.118623
+12/5/07,300,"542 W RAVENWOOD, Youngstown, OH",Micheal D. Pippin,Male,Black,49,N,Unsolved,-80.6722901,41.0646511
+12/27/07,2100,"461 ALMYRA, Youngstown, OH",John M. Jones,Male,Black,30,N,Unsolved,-80.668843,41.069073
+12/27/07,2100,"441 ALMYRA, Youngstown, OH",Garrick V. Willis,Male,Black,29,N,Unsolved,-80.668118,41.069072
+1/23/08,500,"1645 STEWART, Youngstown, OH",Alisea Crawford,Female,Black,3,Y,Solved,-80.619154,41.110363
+1/23/08,500,"1645 STEWART, Youngstown, OH",Carol Crawford,Female,Black,46,Y,Solved,-80.619154,41.110363
+1/23/08,500,"1645 STEWART, Youngstown, OH",Jeannine Crawford,Female,Black,5,Y,Solved,-80.619154,41.110363
+1/23/08,500,"1645 STEWART, Youngstown, OH",Jennifer R. Crawford,Female,Black,23,Y,Solved,-80.619154,41.110363
+1/23/08,500,"1645 STEWART, Youngstown, OH",Ramaisha Crawford,Female,Black,8,Y,Solved,-80.619154,41.110363
+2/6/08,2000,"64 N BRUCE, Youngstown, OH",Robert Rogers,Male,Black,20,N,Unsolved,-80.6273258,41.0981798
+4/21/08,2100,"1034 NORWOOD, Youngstown, OH",Julius Williams,Male,Black,44,Y,Solved,-80.667563,41.121231
+6/11/08,2200,"196 W DELASON, Youngstown, OH",Lashonda Shaw,Female,Black,16,N,Unsolved,-80.6632754,41.0828453
+6/27/08,500,"1500 COMMONWEALTH, Youngstown, OH",Brandon Rowe,Male,Black,20,N,Unsolved,-80.6262564,41.1201318
+7/19/08,100,"1666 POLAND AVE, Youngstown, OH",Ricardo P. Moctezuma,Male,White,25,Y,Solved,-80.626074,41.078203
+8/23/08,2100,"504 E MIDLOTHIAN BLVD, Youngstown, OH",William Vaughn,Male,Black,51,N,Unsolved,-80.6456548,41.0610564
+9/6/08,1400,"149 HALLECK, Youngstown, OH",Sammuel Buxton,Male,Black,38,N,Unsolved,-80.643616,41.127019
+11/29/08,200,"27 CLINTON, Youngstown, OH",Preston Williams,Male,Black,17,Y,Solved,-80.6183603,41.0977097
+12/5/08,1300,"622 MABEL, Youngstown, OH",Curtis Treharn,Male,White,45,N,Unsolved,-80.6439749,41.0792135
+1/1/09,700,"1105 IVANHOE, Youngstown, OH",Donell Rowe,Male,Black,29,N,Unsolved,-80.633838,41.066392
+2/10/09,1300,"1139 KATHERINE, Youngstown, OH",Mattie McPeters,Female,Black,90,N,Unsolved,-80.620189,41.115504
+2/21/09,2200,"946 DELAWARE, Youngstown, OH",Melkanoe Bowman,Male,Black,24,Y,Solved,-80.6667427,41.1203406
+3/8/09,600,"234 LANSDOWNE, Youngstown, OH",Seetreon Dothard,Male,Black,29,Y,Solved,-80.616482,41.0998779
+3/17/09,200,"728 BRENTWOOD, Youngstown, OH",Anthony Bell,Male,Black,31,N,Unsolved,-80.676407,41.075563
+3/17/09,200,"780 BRENTWOOD, Youngstown, OH",Vandy Bryant,Male,Black,25,N,Unsolved,-80.678288,41.075581
+4/15/09,1700,"1349 SHEHY ST, Youngstown, OH",Tommy Jones,Male,Black,32,N,Unsolved,-80.626465,41.094605
+5/23/09,0,"342 FALLS AVE, Youngstown, OH",Theresa Harris,Female,Black,53,N,Unsolved,-80.665583,41.091489
+5/23/09,1100,"114 AYERS, Youngstown, OH",Hylen Cash,Male,Black,21,Y,Solved,-80.6247674,41.0946354
+7/9/09,100,"550 E BOSTON, Youngstown, OH",Terrance Crum,Male,Black,38,N,Unsolved,-80.6442892,41.0686927
+8/11/09,1800,"170 N WEST AVE, Youngstown, OH",Darry Woods,Male,Black,20,Y,Solved,-80.6642934,41.1044556
+9/15/09,2300,"2200 GLENWOOD, Youngstown, OH",David Hammond,Male,Black,62,N,Unsolved,-80.6757771,41.0779831
+12/2/09,200,"644 ST LOUIS, Youngstown, OH",Jermall Wilson,Male,Black,25,Y,Solved,-80.6744136,41.0771961
+1/3/10,1300,"1093 EASTWAY, Youngstown, OH",Pharoah Tutt,Male,Black,47,Y,Solved,-80.58239,41.116733
+1/10/10,2200,"775 N GARLAND, Youngstown, OH",Montrelle Pinkard,Male,Black,20,N,Unsolved,-80.6284232,41.1101857
+1/23/10,900,"77 E. LUCIUS, Youngstown, OH",Andeline Fimognari,Female,White,80,Y,Solved,-80.6568821,41.0656019
+1/28/10,900,"349 W EARLE AVE, Youngstown, OH",Lamont Brown,Male,Black,33,Y,Solved,-80.6659192,41.0785341
+2/12/10,1800,"344 E FLORIDA, Youngstown, OH",Aaron Clinkscale,Male,Black,33,N,Unsolved,-80.6482342,41.0704195
+3/20/10,2100,"64 LIVINGSTON, Youngstown, OH",Eddie Wooldridge,Male,Black,53,N,Unsolved,-80.6177181,41.0979561
+3/29/10,1800,"45 LAUDERDALE, Youngstown, OH",Brian Greer,Male,Black,32,Y,Solved,-80.6408809,41.128248
+4/25/10,2100,"137 W MYRTLE, Youngstown, OH",Elye Dawson,Male,Black,18,N,Unsolved,-80.6611082,41.087468
+6/17/10,1500,"360 W CHALMERS, Youngstown, OH",Marlon Chatman,Male,Black,28,Y,Solved,-80.6662226,41.0849582
+6/19/10,0,"63 MANCHESTER, Youngstown, OH",Tracee Banks,Female,Black,17,Y,Solved,-80.6964255,41.104735
+7/27/10,300,"520 W EVERGREEN, Youngstown, OH",James Jackson,Male,Black,64,Y,Solved,-80.670891,41.080843
+8/29/10,100,"119 E RAVENWOOD, Youngstown, OH",Terrance Howard,Male,Black,17,Y,Solved,-80.6557226,41.0640925
+9/25/10,1300,"2801 MARKET, Youngstown, OH",Thomas Repchic,Male,White,75,Y,Solved,-80.6568821,41.0712222
+11/11/10,1900,"115 ILLINOIS, Youngstown, OH",Michael Lambert,Male,White,53,Y,Solved,-80.64419,41.113928
+2/6/11,300,"55 INDIANA, Youngstown, OH",Jamail Johnson,Male,Black,25,Y,Solved,-80.6430536,41.1129693
+3/12/11,1700,"1210 KIMMEL, Youngstown, OH",Tyler Simpson,Male,Black,20,Y,Solved,-80.629558,41.116365
+6/3/11,1400,"118 ST LOUIS, Youngstown, OH",Addrine L. Johnson,Male,Black,38,N,Unsolved,-80.6606314,41.0772449
+6/18/11,2300,"3124 SOUTH AVE, Youngstown, OH",Brandon Allen Adkins,Male,Black,16,Y,Solved,-80.6464568,41.0676596
+6/23/11,1600,"2430 TYRELL, Youngstown, OH",Melesia Day,Female,Black,20,Y,Solved,-80.6979202,41.1214905
+7/29/11,1300,"1916 SUMMERS, Youngstown, OH",Braylen Collins,Male,Black,17,Y,Solved,-80.673135,41.0810109
+8/5/11,100,"2238 KNAPP, Youngstown, OH",Doris A. Wellington,Female,Black,44,Y,Solved,-80.583411,41.132588
+8/6/11,300,"1091 WIRT ST, Youngstown, OH",Oscar Teague,Male,Black,56,Y,Solved,-80.6638461,41.1223311
+9/16/11,2300,"135 WILLIS, Youngstown, OH",Joshua T. Davis,Male,Black,17,Y,Solved,-80.660924,41.0834244
+9/24/11,1000,"463 FERNDALE, Youngstown, OH",Duane Colvin,Male,Black,32,N,Unsolved,-80.669392,41.063299
+10/21/11,100,"3229 SOUTH AVE, Youngstown, OH",Jerome Miller,Male,Black,22,N,Unsolved,-80.6459149,41.066464
+11/13/11,0,"1477 WOODCREST, Youngstown, OH",Adam Christian,Male,Black,23,Y,Solved,-80.6227169,41.1090474
+11/16/11,100,"2907 MAHONING AVE, Youngstown, OH",Stephen J. Cortner,Male,Black,30,N,Unsolved,-80.7021442,41.1029365
+11/16/11,100,"2907 MAHONING AVE, Youngstown, OH",Shanell Jackson,Female,Black,23,N,Unsolved,-80.7021442,41.1029365
+11/30/11,200,"1171 SCIOTA, Youngstown, OH",Terrance Wigfall,Male,Black,27,N,Unsolved,-80.610703,41.11606
+2/26/12,2200,"1947 BANCROFT AVE, Youngstown, OH",Erica L. Elford,Female,White,33,Y,Solved,-80.6197914,41.0545909
+3/2/12,1600,"223 LORA AVE, Youngstown, OH",Munir Samad Blake,Male,Black,31,Y,Solved,-80.6468651,41.1197569
+4/25/12,1500,"104 SARANAC, Youngstown, OH",Pierre J. McKinney,Male,Black,21,N,Unsolved,-80.6432487,41.1228313
+5/15/12,1100,"240 E AVONDALE, Youngstown, OH",Juanetta Franklin,Female,Black,17,N,Unsolved,-80.651319,41.067487
+5/15/12,1100,"240 E AVONDALE, Youngstown, OH",Pako J. Lacey,Male,Black,20,N,Unsolved,-80.651319,41.067487
+6/22/12,200,"732 OAK HILL AVE, Youngstown, OH",Curtis Moses,Male,Black,43,N,Unsolved,-80.6598512,41.0915013
+7/4/12,2300,"3040 MCGUFFEY, Youngstown, OH",Brian Angel,Male,Black,24,N,Unsolved,-80.586263,41.1178921
+8/20/12,100,"1404 MAPLEWOOD CT, Youngstown, OH",Bryce Linebaugh,Male,White,8,Y,Solved,-80.6258798,41.1214159
+10/30/12,2100,"142 ROSLYN DR, Youngstown, OH",Darnell C. Green Jr.,Male,Black,20,N,Unsolved,-80.6434221,41.1309161
+11/18/12,800,"240 E AVONDALE, Youngstown, OH",Tamarick D. Moore,Male,Black,18,N,Unsolved,-80.651319,41.067487
+11/20/12,500,"1948 ATKINSON, Youngstown, OH",Oneil Lee Williams,Male,Black,28,Y,Solved,-80.615368,41.1243339
+2/12/13,100,"422 W PRINCETON, Youngstown, OH",Frank Whitted,Male,Black,28,Y,Solved,-80.667394,41.07364
+3/14/13,2100,"1721 LANSDOWNE, Youngstown, OH",Robert William Floyd Jr.,Male,Black,23,N,Unsolved,-80.6156336,41.1232873
+4/29/13,2200,"2127 ELM ST, Youngstown, OH",Kristopher M. Stuart,Male,Black,26,Y,Solved,-80.644914,41.128188
+5/12/13,0,"3337 LOVELAND, Youngstown, OH",Robert Joseph Vanderpool,Male,White,37,N,Unsolved,-80.615419,41.0685659
+5/13/13,1700,"928 WOODSIDE, Youngstown, OH",Ila Lee,Female,Black,0,Y,Solved,-80.618733,41.113569
+5/21/13,1600,"725 PARK AVE, Youngstown, OH",Ororo Wilkins,Female,Black,20,Y,Solved,-80.661455,41.1131635
+6/6/13,2100,"720 KENDIS CIR, Youngstown, OH",Keil'n Thurston,Male,Black,20,N,Unsolved,-80.6126546,41.0936128
+7/25/13,2300,"3721 LOVELAND RD, Youngstown, OH",Daniel A. Watkins,Male,White,19,Y,Solved,-80.6154547,41.062394
+9/29/13,100,"107 HILTON, Youngstown, OH",Ivan DeMorris West,Male,Black,28,Y,Solved,-80.656557,41.0631749
+10/14/13,800,"160 N WEST AVE, Youngstown, OH",Collena Lynne Carpenter,Female,White,30,Y,Solved,-80.665717,41.10434
+10/28/13,900,"266 HILTON AVE, Youngstown, OH",David T. Perkins,Male,White,23,Y,Solved,-80.650228,41.0638409
+11/15/13,1700,"3628 SOUTHERN BLVD, Youngstown, OH",Elliot Stewart,Male,Black,25,Y,Solved,-80.6577707,41.0626493
+11/27/13,300,"2427 SHIRLEY RD, Youngstown, OH",Dennis F. Simmons,Male,White,70,Y,Solved,-80.624834,41.075081
+12/29/13,2100,"736 FAIRMONT, Youngstown, OH",Aldric Jones,Male,Black,20,Y,Solved,-80.6617304,41.1186284
+12/30/13,1400,"3440 SHELBY, Youngstown, OH",Lashea Parker,Female,Black,26,Y,Solved,-80.685593,41.063595
+5/24/14,2300,"1108 MCGUFFEY, Youngstown, OH",Brendon Moorer,Male,Black,34,Y,Solved,-80.6309139,41.1103397
+5/28/14,2200,"DEAD END OF HAZEL, Youngstown, OH",James Robert Syster,Male,White,55,Y,Solved,-80.653556,41.098731
+8/17/14,1700,"749 WINONA, Youngstown, OH",Shawn Cortez,Male,Black,17,Y,Solved,-80.6772087,41.076038
+8/28/14,2100,"3011 SOUTH AVE, Youngstown, OH",Dale Garver,Male,White,41,N,Unsolved,-80.64582,41.068935
+10/11/14,0,"750 MABEL, Youngstown, OH",Anthony Harrison,Male,Black,24,N,Unsolved,-80.64031,41.080153
+10/15/14,800,"2709 SHADY RUN RD, Youngstown, OH",Lenzie Morgan Jr.,Male,Black,49,Y,Solved,-80.633827,41.072822
+10/25/14,2300,"884 E BOSTON AVE, Youngstown, OH",Shaniece Welles,Female,Black,23,Y,Solved,-80.637281,41.06872
+10/27/14,2100,"838 E MIDLOTHIAN, Youngstown, OH",Cory Cracraft,Male,White,27,Y,Solved,-80.64065,41.061851
+11/17/14,600,"2025 GUADALUPE, Youngstown, OH",Antwon Lee Martinez,Male,Black,20,Y,Solved,-80.6590277,41.1269646
+11/19/14,1600,"2608 SOUTH AVE, Youngstown, OH",Abdullah Mahdi,Male,Black,29,Y,Solved,-80.6466952,41.0730844
+1/21/15,2200,"1752 OAKWOOD, Youngstown, OH",Mykola Iwaniuk,Male,White,84,Y,Solved,-80.6870669,41.1051454
+1/29/15,1200,"3329 LENOX, Youngstown, OH",Mekhi Dawson,Male,Black,0,Y,Solved,-80.622178,41.0676599
+2/7/15,0,"732 OAK HILL AVE, Youngstown, OH",Dejuan Thomas,Male,Black,33,Y,Solved,-80.6598512,41.0915013
+3/30/15,700,"3631 POWERS WAY, Youngstown, OH",William E. Schmidt,Male,White,63,Y,Solved,-80.616542,41.064532
+3/30/15,700,"3631 POWERS WAY, Youngstown, OH",Judith A. Schmidt,Female,White,61,Y,Solved,-80.616542,41.064532
+3/30/15,700,"3631 POWERS WAY, Youngstown, OH",Corrine Gump,Female,White,10,Y,Solved,-80.616542,41.064532
+4/17/15,1700,"330 S JACKSON ST, Youngstown, OH",Xavier L. Vega,Male,Hispanic,27,N,Unsolved,-80.622354,41.089855
+6/21/15,200,"1442 OAK ST, Youngstown, OH",Ezequiel Rivera,Male,Hispanic,21,Y,Solved,-80.6236291,41.0989794
+7/7/15,2000,"1621 WELLINGTON, Youngstown, OH",Tina Jarrell,Female,White,55,Y,Solved,-80.6840337,41.1073173
+9/16/15,2000,"559 COHASSET, Youngstown, OH",Devon Bailey,Male,Black,16,Y,Solved,-80.671183,41.082127
+11/6/15,300,"44 CLEVELAND, Youngstown, OH",Ericka Huff,Female,Black,41,Y,Solved,-80.6585509,41.0861282
+11/14/15,0,"575 W  MYRTLE, Youngstown, OH",Thomas Owens,Male,Black,33,Y,Solved,-80.67138,41.087602
+11/15/15,2200,"1508 GLENWOOD, Youngstown, OH",Tony G. Brown Jr.,Male,Black,34,Y,Solved,-80.6732002,41.0863455
+12/29/15,900,"124 S GARLAND, Youngstown, OH",John Enrique Albino-Hernandez Jr.,Male,Hispanic,0,Y,Solved,-80.628567,41.093971
+2/18/16,1500,"176 AYERS, Youngstown, OH",Jason Fonseca,Male,Hispanic,20,Y,Solved,-80.6247783,41.0929686
+4/8/16,2100,"2310 WYDESTEEL, Youngstown, OH",Jabreal Dwaylon Olajauwon Collins,Male,Black,21,N,Unsolved,-80.637669,41.130434
+6/1/16,1100,"477 W BOSTON, Youngstown, OH",Teonia Gowdy,Female,Black,27,N,Unsolved,-80.6699065,41.0679701
+7/6/16,2200,"247 NORWOOD, Youngstown, OH",Calvin Moore,Male,Black,44,N,Unsolved,-80.6481475,41.1207746
+7/19/16,2100,"270 DUPONT, Youngstown, OH",Ralph Thomas,Male,Black,20,Y,Solved,-80.6778151,41.1295386
+9/5/16,2300,"3527 BELDEN, Youngstown, OH",Daniel A. Sanford,Male,White,28,Y,Solved,-80.616828,41.066121
+10/21/16,900,"1413 BELMONT, Youngstown, OH",Special Strickland,Female,Black,28,N,Unsolved,-80.6577924,41.119241
+10/22/16,1400,"2127 VOLNEY RD, Youngstown, OH",Bianca Arter,Female,Black,48,Y,Solved,-80.6777938,41.0786026
+12/26/16,1500,"1737 MIDLAND, Youngstown, OH",Marcus Lee Jr.,Male,Black,9,Y,Solved,-80.6868285,41.108968
+1/25/17,900,"1128 REPUBLIC, Youngstown, OH",Christopher Bridges,Male,White,22,N,Unsolved,-80.6305019,41.1203084
+2/2/17,2000,"745 OXFORD, Youngstown, OH",Clevael Workman,Male,Black,23,Y,Solved,-80.6624519,41.1173394
+2/20/17,700,"2819 EDGAR, Youngstown, OH",Zachary Howell,Male,Black,40,Y,Solved,-80.5928969,41.121053
+2/24/17,2100,"1625 MAHONING, Youngstown, OH",Shannon Graves,Female,White,28,Y,Solved,-80.6824111,41.1019149
+3/8/17,1000,"1926 JOSEPHINE, Youngstown, OH",Javel Bates,Male,Black,40,N,Unsolved,-80.593391,41.12709
+6/23/17,1300,"51 ONETA, Youngstown, OH",Raevenne Faircloth-Thomas,Female,Black,24,Y,Solved,-80.679083,41.1065345
+7/14/17,100,"411 MISTLETOE, Youngstown, OH",Braylin Lariq Bell,Male,Black,18,N,Unsolved,-80.667033,41.061586
+7/24/17,1600,"3112 BURBANK, Youngstown, OH",Isabelle Essad,Female,White,1,Y,Solved,-80.70522,41.1098171
+8/6/17,0,"663 MAGNOLIA, Youngstown, OH",Tavares Jabbar Jones,Male,Black,41,N,Unsolved,-80.6216057,41.1087085
+8/9/17,1600,"229 E FRONT, Youngstown, OH",Anvia Mickens,Female,Black,28,Y,Solved,-80.6479877,41.0960928
+8/29/17,0,"27 CHICAGO, Youngstown, OH",Tyreese Lynch,Male,Black,22,Y,Solved,-80.658046,41.0777379
+9/18/17,2000,"3527 BELDEN, Youngstown, OH",Charles Edward Pargo,Male,Black,27,Y,Solved,-80.616828,41.066121
+9/22/17,1800,"582 DOROTHY, Youngstown, OH",Henry Jones,Male,Black,62,N,Unsolved,-80.6432487,41.084217
+10/18/17,100,"145 S LAKEVIEW, Youngstown, OH",Evan D. Amos,Male,White,22,Y,Solved,-80.6850195,41.099235
+10/27/17,1700,"1172 VERONA, Youngstown, OH",Trevaughn Bell,Male,Black,24,Y,Solved,-80.6288109,41.1081594
+11/15/17,1800,"950 PASADENA, Youngstown, OH",Brandon Treharn,Male,Black,30,N,Unsolved,-80.635821,41.077421
+11/25/17,2100,"1840 BELMONT AVE, Youngstown, OH",Tyler Kitchen,Male,Black,19,Y,Solved,-80.6637088,41.1239538
+11/28/17,2300,"2929 SOUTH AVE, Youngstown, OH",Colin Matthew Brown,Male,White,45,Y,Solved,-80.6458932,41.069448
+12/21/17,2100,"103 E JUDSON, Youngstown, OH",Ricardo L. Amill,Male,Black,35,N,Unsolved,-80.6570772,41.0622415
+12/31/17,2300,"147 BYRON, Youngstown, OH",Jose Jarejui,Male,Hispanic,33,N,Unsolved,-80.6230437,41.093763
+1/1/01,100,"1229 SALT SPRINGS, Youngstown, OH",Delmar Nickels,Male,White,21,Y,Solved,-80.68801,41.116132
+6/17/01,100,"537 W HYLDA, Youngstown, OH",Jerome Williams,Male,Black,20,N,Unsolved,-80.6722034,41.0713184
+8/23/01,0,"1015 ERIE ST, Youngstown, OH",May Vaschon,Male,Black,24,N,Unsolved,-80.6526016,41.0887743
+8/29/01,2100,"2023 MCGUFFEY, Youngstown, OH",Anthony Bailey,Male,Black,23,N,Unsolved,-80.612728,41.113728
+2/28/02,200,"155 W BOSTON, Youngstown, OH",Adam Dixon,Male,White,18,Y,Solved,-80.663582,41.068126
+3/19/02,2200,"56 BISSELL, Youngstown, OH",Tyrell Perry,Male,Black,22,Y,Solved,-80.6412978,41.1185389
+7/31/02,1500,"1450 FORESTVIEW, Youngstown, OH",Dorian Burns,Male,Black,20,N,Unsolved,-80.617812,41.120318
+11/25/02,1400,"1004 W WOODLAND, Youngstown, OH",John Cannell,Male,White,32,Y,Solved,-80.66889,41.093895
+1/6/03,100,"124 HARVARD, Youngstown, OH",Louis Vila,Male,White,35,Y,Solved,-80.672282,41.120292
+1/20/04,1500,"1938 E MIDLOTHIAN, Youngstown, OH",Jason Gasior,Male,White,23,Y,Solved,-80.6192276,41.0608683
+7/13/04,2300,"1524 JOSEPHINE, Youngstown, OH",Erick O. Martinez,Male,Black,17,Y,Solved,-80.594584,41.120083
+7/16/04,100,"357 E PHILADELPHIA, Youngstown, OH",Mary M. Thompson,Female,White,32,Y,Solved,-80.6476273,41.0691211
+3/8/05,2200,"1455 WOODCREST, Youngstown, OH",Alvin Montgomery,Male,Black,48,Y,Solved,-80.6236166,41.1090462
+3/21/05,1100,"200 WAYNE, Youngstown, OH",Nathaniel Freeman,Male,Black,26,Y,Solved,-80.651371,41.090255
+3/27/05,200,"571 FRANCISCA, Youngstown, OH",Cortland R. Brown,Male,Black,28,N,Unsolved,-80.6627722,41.1245516
+5/8/05,2000,"692 JACOBS RD, Youngstown, OH",Anthony Gilbert,Male,White,41,N,Unsolved,-80.5868799,41.109572
+5/16/05,100,"1550 OAK LANE, Youngstown, OH",Laketta Nolan,Female,Black,22,N,Unsolved,-80.6196439,41.121997
+5/21/05,1600,"522 LEXINGTON, Youngstown, OH",Eric Farmer,Male,Black,15,Y,Solved,-80.657463,41.116102
+7/10/05,800,"364 PARKCLIFF, Youngstown, OH",Marilyn Guthrie,Female,White,61,Y,Solved,-80.6659192,41.067021
+7/28/05,0,"262 HILTON, Youngstown, OH",Joe Bowers,Male,Black,49,Y,Solved,-80.650384,41.0638409
+9/12/05,100,"407 NORWOOD, Youngstown, OH",John Moore,Male,Black,50,N,Unsolved,-80.655579,41.120582
+10/11/05,2100,"420 W EARLE, Youngstown, OH",Jason Fields,Male,Black,24,Y,Solved,-80.668314,41.078907
+10/20/05,2300,"2151 STEWART, Youngstown, OH",Alexander Dawson,Male,Black,14,N,Unsolved,-80.6090509,41.110341
+1/1/06,900,"400 SALT SPRINGS, Youngstown, OH",Jamie White,Female,White,41,Y,Solved,-80.6781274,41.1075877
+4/7/06,2300,"840 MLK, Youngstown, OH",Samson Williams,Male,Black,34,Y,Solved,-80.595285,41.1125841
+4/9/06,800,"619 E INDIANOLA, Youngstown, OH",Korey James,Male,Black,22,N,Unsolved,-80.6433571,41.0723047
+7/2/06,100,"374 GLENWOOD, Youngstown, OH",James Young,Male,Black,62,N,Unsolved,-80.6716816,41.0969997
+12/24/06,200,"426 SHERWOOD, Youngstown, OH",Quinton Floyd,Male,Black,14,N,Unsolved,-80.6675148,41.074528
+12/30/06,2200,"612 CLEARMONT, Youngstown, OH",Anthony Perez,Male,Hispanic,31,Y,Solved,-80.6732435,41.0658216
+2/23/07,1400,"88 HAZELTINE, Youngstown, OH",Travis Garcia,Male,White,18,Y,Solved,-80.6153246,41.0851337
+6/11/07,100,"310 BYRON, Youngstown, OH",Sherman Moody,Male,Black,52,Y,Solved,-80.6234382,41.0907984
+6/19/07,1100,"23 N EVANSTON, Youngstown, OH",J'Berto LeFlore,Male,Black,0,Y,Solved,-80.6839471,41.1028635
+7/31/07,1300,"72 CENTER ST, Youngstown, OH",Baby Boy Moore,Male,Black,0,Y,Solved,-80.6167124,41.0852473
+10/22/07,2300,"230 BYRON, Youngstown, OH",Lamont Belcher,Male,Black,23,N,Unsolved,-80.623631,41.092025
+10/24/07,1400,"2664 VOLNEY, Youngstown, OH",Joeray Redmond,Male,Black,27,Y,Solved,-80.6820405,41.071845
+1/23/08,500,"1645 STEWART, Youngstown, OH",Brandon Crawford,Male,Black,2,Y,Solved,-80.619154,41.110363
+3/17/08,2100,"54 RUTLEDGE, Youngstown, OH",Demar L. Flores,Male,Black,18,Y,Solved,-80.59832,41.092106
+4/23/08,1900,"510 GRIFFITH, Youngstown, OH",Marcus Easterly,Male,Black,30,Y,Solved,-80.6619996,41.1103412
+4/30/08,1500,"642 MANCHESTER, Youngstown, OH",Marcus Drummond,Male,Black,42,N,Unsolved,-80.6968155,41.1108125
+5/22/08,1600,"2018 MCGUFFEY, Youngstown, OH",John A. Cotton,Male,Black,66,N,Unsolved,-80.612787,41.114211
+6/29/08,2100,"309 W GLENAVEN, Youngstown, OH",Lawrence Anderson,Male,Black,22,Y,Solved,-80.6643336,41.0792244
+8/13/08,1100,"2803 CAIN, Youngstown, OH",Jajuan Robbins,Male,Black,20,Y,Solved,-80.6682162,41.0713061
+8/16/08,1800,"808 W INDIANOLA AVE, Youngstown, OH",Delbert L. Jones,Male,Black,22,Y,Solved,-80.6775338,41.071947
+9/16/08,900,"506 GARFIELD, Youngstown, OH",Zena Wright,Female,Black,43,N,Unsolved,-80.668823,41.0887205
+9/5/09,1300,"654 MAGNOLIA, Youngstown, OH",Ramon Echevestre,Male,Black,36,Y,Solved,-80.6215116,41.1077032
+1/12/10,2100,"464 LEXINGTON, Youngstown, OH",Rodney Weaver,Male,Black,25,Y,Solved,-80.6554734,41.1160298
+4/21/10,1100,"127 NORTH LANE, Youngstown, OH",Emanuel Izquierdo,Male,Hispanic,31,Y,Solved,-116.8648298,32.8074741
+9/20/10,1400,"3660 NELSON, Youngstown, OH",Vivian Martin,Female,Black,67,Y,Solved,-80.571681,41.128647
+3/26/11,1600,"1437 STEWART, Youngstown, OH",Devail Fleeton,Male,Black,16,Y,Solved,-80.6239977,41.1104177
+4/8/11,1800,"1722 BELMONT, Youngstown, OH",Warren V. Wright,Male,Black,32,Y,Solved,-80.6612819,41.1220585
+9/22/11,1900,"1339 IVERNESS, Youngstown, OH",Quest J. Wagoner,Male,White,22,Y,Solved,-80.6301551,41.0646502
+10/8/11,1500,"59 E JUDSON, Youngstown, OH",Tequon J. Sharpe,Male,Black,20,N,Unsolved,-80.6589488,41.0623195
+10/11/11,1600,"555 E LUCIUS, Youngstown, OH",Theresa Stillwagon,Female,White,29,Y,Solved,-80.6441158,41.0664148
+1/14/12,300,"131 W EVERGREEN, Youngstown, OH",William T. Patterson,Male,White,60,N,Unsolved,-80.6610215,41.0801254
+1/28/12,100,"1040 KENDIS, Youngstown, OH",Carlos Cruz Jr.,Male,Black,17,N,Unsolved,-80.6108629,41.0935685
+2/15/12,1500,"41 W LUCIUS, Youngstown, OH",Cedrick Robinson,Male,Black,19,Y,Solved,-80.663102,41.0660501
+3/10/12,1100,"114 N LANE, Youngstown, OH",Damon Hodges,Male,Black,34,Y,Solved,-80.6340759,41.098441
+4/27/12,1600,"1754 SILLIMAN, Youngstown, OH",Michael Abighanem,Male,White,27,Y,Solved,-80.6873702,41.1059891
+6/1/12,200,"671 MC BRIDE, Youngstown, OH",Michael Johnson,Male,Black,NA,Y,Solved,-80.6236028,41.1086277
+6/1/12,200,"671 MC BRIDE, Youngstown, OH",Ibn Shakoor,Male,Black,20,Y,Solved,-80.6236028,41.1086277
+9/18/12,2300,"2923 BENFORD LN, Youngstown, OH",Keara McCulough,Female,Black,19,Y,Solved,-80.5767926,41.1301607
+9/18/12,2300,"2923 BENFORD LN, Youngstown, OH",Keith Ryan Slade,Male,Black,20,Y,Solved,-80.5767926,41.1301607
+10/28/12,1100,"1423 MAPLEWOOD CT, Youngstown, OH",Shawn Meadows,Male,Black,26,Y,Solved,-80.6256766,41.121515
+12/12/12,1500,"3031 OREGON, Youngstown, OH",Rayvon Emmanuel Dawson,Male,Black,1,Y,Solved,-80.7034185,41.1195149
+2/1/13,1100,"1506 DOGWOOD, Youngstown, OH",David H. Stokes,Male,White,53,Y,Solved,-80.624804,41.1222109
+7/10/13,400,"336 E FLORIDA AVE, Youngstown, OH",Roosevelt Cooper III,Male,Black,36,Y,Solved,-80.6485376,41.0704053
+12/12/13,2000,"706 PASEDENA, Youngstown, OH",Jamar Jones Jr.,Male,Black,0,Y,Solved,-80.642524,41.077405
+4/1/14,200,"573 IDORA, Youngstown, OH",Maurise Kerns,Male,Black,24,Y,Solved,-80.6728535,41.0703565
+6/28/14,0,"116 TOD LANE, Youngstown, OH",Shannon Strosnider,Female,White,33,N,Unsolved,-80.6423817,41.1244371
+7/28/14,0,"360 CARROLL, Youngstown, OH",Zachary Kenneth Frischkorn,Male,White,27,N,Unsolved,-80.6662226,41.0904986
+8/7/14,2000,"1459 WILLOW CT, Youngstown, OH",Marquell Mclane,Male,Black,27,Y,Solved,-80.6250723,41.121789
+8/7/14,2000,"1465 DOGWOOD LN, Youngstown, OH",Charles E. Moore,Male,Black,23,Y,Solved,-80.6248917,41.1219065
+11/23/14,0,"721 LEXINGTON, Youngstown, OH",Devon Lavell Damous,Male,Black,22,Y,Solved,-80.6611949,41.1156382
+12/13/14,200,"72 BROOKLYN, Youngstown, OH",Leroy Williams III,Male,Black,36,N,Unsolved,-80.6562969,41.0679156
+4/19/15,1400,"28 E PRINCETON, Youngstown, OH",William Jones,Male,Black,55,N,Unsolved,-80.6563403,41.0740074
+8/22/15,100,"137 SARANAC, Youngstown, OH",Donald Price III,Male,Black,28,N,Unsolved,-80.6444626,41.1224625
+8/29/15,1700,"118 E PHILADELPHIA, Youngstown, OH",Jermaine D. Banks,Male,Black,39,N,Unsolved,-80.6540909,41.0694919
+11/7/15,1800,"2240 MONTCLAIR, Youngstown, OH",Chris Anderson,Male,Black,30,Y,Solved,-80.6781404,41.0769528
+12/3/15,800,"807 HIGH ST, Youngstown, OH",Jeffrey Averette,Male,Black,47,N,Unsolved,-80.6652474,41.0989433
+1/5/16,1700,"244 E PHILADELPHIA, Youngstown, OH",Richard Macklin,Male,Black,22,N,Unsolved,-80.651135,41.069521
+3/20/16,0,"431 IDORA, Youngstown, OH",Marguise Shelton,Male,Black,23,Y,Solved,-80.6678262,41.0703767
+4/3/16,0,"62 E EVERGREEN, Youngstown, OH",Michael Pete,Male,Black,30,Y,Solved,-80.6544764,41.0803724
+5/6/16,2100,"2050 SMITHFIELD, Youngstown, OH",Kenneth Evans,Male,Black,59,Y,Solved,-80.6917463,41.1086848
+8/12/16,2300,"736 PALMER, Youngstown, OH",Howard L. Ramey,Male,Black,53,Y,Solved,-80.6414712,41.0640133
+9/20/16,1700,"1515 KENSINGTON, Youngstown, OH",Andre Harrison,Male,Black,34,Y,Solved,-80.641433,41.120571
+3/24/17,600,"1358 ATKINSON, Youngstown, OH",Ronald Lewis,Male,Black,49,Y,Solved,-80.622428,41.118075
+4/10/17,0,"248 DUPONT, Youngstown, OH",Michael Brooks,Male,Black,52,Y,Solved,-80.6789401,41.1289336
+11/28/17,100,"1704 LOGAN AVE, Youngstown, OH",Jerry Lamar Franklin,Male,Black,26,N,Unsolved,-80.63809,41.122701
+1/12/02,0,"702 STEEL ST, Youngstown, OH",Angela Loibl,Female,White,24,Y,Solved,-80.683167,41.110115
+3/24/02,300,"2524 HUNTER, Youngstown, OH",Dennis Best,Male,White,49,Y,Solved,-80.632009,41.074485
+11/5/02,200,"540 BURNETT, Youngstown, OH",John Thomas,Male,Black,32,N,Unsolved,-80.6582475,41.1098211
+12/21/02,1400,"2577 TAMPA, Youngstown, OH",Jaquin Bell,Male,Black,23,N,Unsolved,-80.6317714,41.0735067
+10/20/04,2100,"258 DUPONT, Youngstown, OH",Timothy A. Doran Sr.,Male,White,43,N,Unsolved,-80.6782582,41.1292904
+10/23/05,400,"524 SAMUEL, Youngstown, OH",Regina Miller,Female,Black,28,Y,Solved,-80.645404,41.080197
+12/23/05,800,"2832 STACY, Youngstown, OH",Anthony Thomas,Male,Black,37,N,Unsolved,-80.590967,41.113208
+4/7/06,2300,"840 MLK, Youngstown, OH",Ronnie Summers,Male,Black,45,Y,Solved,-80.595285,41.1125841
+5/20/06,1800,"1630 PARK VISTA, Youngstown, OH",James Helms,Male,Black,16,Y,Solved,-80.61961,41.122385
+10/30/06,1800,"1816 STEWART, Youngstown, OH",Waddell Casey,Male,Black,28,Y,Solved,-80.616653,41.110922
+1/29/07,2200,"548 W EVERGREEN, Youngstown, OH",Anthony Crockett,Male,Black,23,N,Unsolved,-80.671907,41.080877
+1/29/07,2200,"548 W EVERGREEN, Youngstown, OH",Danielle Parker,Female,Black,22,N,Unsolved,-80.671907,41.080877
+3/11/07,1700,"135 ILLINOIS, Youngstown, OH",Stephen Lawson,Male,Black,34,Y,Solved,-80.6449612,41.1139829
+7/24/07,1200,"208 BROADWAY, Youngstown, OH",Stanley Makarski,Male,White,47,Y,Solved,-80.646172,41.116818
+10/27/07,1000,"1012 CRANDALL, Youngstown, OH",Gregory P. Sopher,Male,White,18,Y,Solved,-80.6665693,41.1220032
+11/17/07,1900,"2661 MCGUFFEY, Youngstown, OH",Henry Wilson,Male,Black,68,N,Unsolved,-80.596596,41.114959
+12/5/07,300,"542 W RAVENWOOD, Youngstown, OH",Julien M. May,Male,Black,22,N,Unsolved,-80.6722901,41.0646511
+3/30/08,1500,"117 E AVONDALE, Youngstown, OH",Terrell L. Roland,Male,Black,18,Y,Solved,-80.6549965,41.0668729
+10/20/08,1900,"230 DUPONT, Youngstown, OH",William Howell,Male,Black,47,Y,Solved,-80.6790646,41.1285056
+5/21/09,2300,"533 SAMUEL, Youngstown, OH",Arthur Mitchell,Male,Black,31,N,Unsolved,-80.644964,41.0796769
+1/2/10,2100,"232 LORA AVE, Youngstown, OH",Dene Montgomery,Male,Black,30,Y,Solved,-80.6472638,41.1202669
+12/14/10,1300,"1026 BREADEN, Youngstown, OH",Christopher Weston,Male,White,44,Y,Solved,-80.6687797,41.0896143
+1/2/11,400,"1000 SHADY RUN, Youngstown, OH",Randy Cappelli,Male,White,30,Y,Solved,-80.6330236,41.0759838
+10/9/11,100,"23 E AVONDALE, Youngstown, OH",Jack T. Manigault,Male,Black,40,Y,Solved,-80.659508,41.066833
+3/14/12,700,"579 E BOSTON AVE, Youngstown, OH",Tito Haskins,Male,Black,25,N,Unsolved,-80.643062,41.068211
+11/16/14,300,"104 E MIDLOTHIAN, Youngstown, OH",Bryant K. Abercrombie,Male,Black,47,N,Unsolved,-80.6572274,41.0611134
+5/18/15,2300,"1425 MAPLEWOOD CT, Youngstown, OH",Rashad Bailey,Male,Black,23,Y,Solved,-80.6256777,41.1215149
+3/23/03,2200,"421 NORTH AVE, Youngstown, OH",Brian Brodie,Male,Black,30,Y,Solved,-80.6566437,41.1082473
+12/5/04,1800,"1942 GLENWOOD, Youngstown, OH",Jerone R. Miller Jr.,Male,Black,31,N,Unsolved,-80.6757353,41.080523
+11/18/07,1700,"145 THORNTON, Youngstown, OH",James Dow,Male,Black,28,Y,Solved,-80.6447309,41.119784
+8/11/09,1800,"170 N WEST AVE, Youngstown, OH",Jaron Roland,Male,Black,20,Y,Solved,-80.6642934,41.1044556
+9/15/09,2300,"2200 GLENWOOD, Youngstown, OH",Ketih Stanford,Male,Black,39,N,Unsolved,-80.6757771,41.0779831
+7/9/10,2200,"767 W LACLEDE, Youngstown, OH",Dustin Jordan,Male,Black,39,N,Unsolved,-80.6778804,41.074434
+10/28/10,1100,"2632 HUNTER, Youngstown, OH",Andre Whitlor,Male,Black,27,N,Unsolved,-80.630503,41.072837
+1/7/12,1000,"3701 MARKET ST, Youngstown, OH",Trevon M. Kimbrough,Male,Black,18,N,Unsolved,-80.6615416,41.06241
+6/13/12,1100,"246 HILTON, Youngstown, OH",Deon D. Weatherspoon,Male,Black,24,Y,Solved,-80.651008,41.063842
+3/28/16,2300,"331 HARVARD, Youngstown, OH",William Cox,Male,Black,87,Y,Solved,-80.6695164,41.1214633
+11/6/16,400,"3000 MCCARTNEY RD, Youngstown, OH",Joshua James Beasley,Male,White,34,Y,Solved,-80.5855832,41.0911172
+11/12/08,0,"419 W MARION, Youngstown, OH",Billy McGeorge,Male,Black,32,Y,Solved,-80.6672628,41.0854721
+8/6/11,300,"1091 WIRT ST, Youngstown, OH",Jasmon Reeder,Male,Black,19,Y,Solved,-80.6638461,41.1223311
+10/27/17,2200,"107 E GLENAVEN, Youngstown, OH",Ashley Peoples,Female,Black,26,N,Unsolved,-80.652916,41.079168
+11/18/07,1600,"223 S TRUESDALE, Youngstown, OH",Wayman T. Harris,Male,Black,25,N,Unsolved,-80.625395,41.092156
+7/8/09,NA,"1735 CROMWELL AVE, Youngstown, OH",Sterling Floyd,Male,Black,40,N,Unsolved,-80.593892,41.124795
+7/9/17,1100,"1331 BENNINGTON, Youngstown, OH",Marion Budgal,Male,White,52,Y,Solved,-80.61912,41.116863
