@@ -23,11 +23,16 @@ intmurders <- murders %>%
 write_csv(intmurders, "output_data/intersectionmurders.csv")
 #I manually went through and added the lat and lon values for these observations because
 #ggmap wouldn't properly return intersections
+murders2 <- read_csv("output_data/intersectionmurders.csv")
+murders2$date <- mdy(murders2$date)
 
 #adding latitude and longitude data
 ggmurders <- mutate_geocode(ggmurders, address)
 
 youngstownloc <- geocode("Youngstown, OH")
+
+#joining all murders into one file
+ggmurders <- rbind(murders, murders2)
 
 library(leaflet)
 
@@ -36,7 +41,6 @@ palette <- colorFactor(c("#13ED3F", "#DC143C"), domain=c("Solved", "Unsolved"))
 
 #created information for popups
 popupmurders <- paste0("<b>Date: </b>", as.character(ggmurders$date), "</br>",
-                       "<b>Location: </b>", as.character(ggmurders$address), "</br>",
                        "<b>Victim Name: </b>", as.character(ggmurders$v_name), "</br>",
                        "<b>Victim Age: </b>", as.character(ggmurders$v_age), "</br>",
                        "<b>Victim Gender: </b>", as.character(ggmurders$v_gender), "</br>",

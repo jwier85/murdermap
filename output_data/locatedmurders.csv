@@ -304,7 +304,7 @@ date,hour,address,v_name,v_gender,v_race,v_age,solved_value,solved_label,lon,lat
 9/16/08,900,"506 GARFIELD, Youngstown, OH",Zena Wright,Female,Black,43,N,Unsolved,-80.668823,41.0887205
 9/5/09,1300,"654 MAGNOLIA, Youngstown, OH",Ramon Echevestre,Male,Black,36,Y,Solved,-80.6215116,41.1077032
 1/12/10,2100,"464 LEXINGTON, Youngstown, OH",Rodney Weaver,Male,Black,25,Y,Solved,-80.6554734,41.1160298
-4/21/10,1100,"127 NORTH LANE, Youngstown, OH",Emanuel Izquierdo,Male,Hispanic,31,Y,Solved,-116.8648298,32.8074741
+4/21/10,1100,"127 NORTH LANE, Youngstown, OH",Emanuel Izquierdo,Male,Hispanic,31,Y,Solved,-80.633407,41.098972
 9/20/10,1400,"3660 NELSON, Youngstown, OH",Vivian Martin,Female,Black,67,Y,Solved,-80.571681,41.128647
 3/26/11,1600,"1437 STEWART, Youngstown, OH",Devail Fleeton,Male,Black,16,Y,Solved,-80.6239977,41.1104177
 4/8/11,1800,"1722 BELMONT, Youngstown, OH",Warren V. Wright,Male,Black,32,Y,Solved,-80.6612819,41.1220585
