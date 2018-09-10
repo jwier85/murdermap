@@ -4,9 +4,9 @@ date,hour,address,v_name,v_gender,v_race,v_age,solved_value,solved_label,lon,lat
 4/5/01,700,"CLOISTER AVE & AUGUSTINE AVE, Youngstown, OH",Alyson Buckner,Female,Black,30,N,Solved,-80.572306,41.120069
 4/7/01,0,"HILLMAN ST & SHERWOOD AVE, Youngstown, OH",Brandon M. Pete,Male,Black,16,Y,Solved,-80.663993,41.074559
 4/23/01,500,"ROSEDALE AVE & CHICAGO AVE, Youngstown, OH",Achilles Cummings,Male,Black,41,Y,Solved,-80.670093,41.078198
-5/1/01,1900,"LOGAN AVE & HUBBARD RD, Youngstown, OH",James Robinson,Male,Black,24,N,Unsolved,-80.634014,41.162765
+5/1/01,1900,"LOGAN AVE & HUBBARD RD, Youngstown, OH",James Robinson,Male,Black,24,N,Unsolved,-80.637819,41.121998
 5/7/01,2100,"EMERY AVE & BIRCH ST, Youngstown, OH",Robert Spencer,Male,Black,NA,N,Solved,-80.647514,41.07855
-7/21/01,200,"LANSDOWNE BLVD & ARCH ST, Youngstown, OH",Alphonso James,Male,Black,41,N,Unsolved,-80.6161,41.104294
+7/21/01,200,"LANSDOWNE BLVD & ARCH ST, Youngstown, OH",Alphonso James,Male,Black,41,N,Unsolved,-80.616143,41.104377
 8/26/01,1500,"HUDSON AVE & W PRINCETON AVE, Youngstown, OH",Jonathan McClendon,Male,Black,23,N,Unsolved,-80.6665,41.073468
 9/30/01,200,"MARKET ST & W HYLDA AVE, Youngstown, OH",Terence L. Green,Male,Black,27,N,Unsolved,-80.657755,41.071487
 11/12/01,100,"MERCER ST & HOFFMAN ST, Youngstown, OH",Marcus Bradley,Male,Black,30,N,Solved,-80.668113,41.097163
