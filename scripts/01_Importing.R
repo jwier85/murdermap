@@ -1,7 +1,7 @@
 library(tidyverse)
 
 #importing raw data
-ytownmurders <- read_csv("raw_data/2000-2017 homicides.csv")
+ytownmurders <- read_csv("output_data/2001-2017homicides.csv")
 
 #renaming columns
 ytownmurders <- select(ytownmurders, hour=HOUR, date=INC_DATE, address=INC_ADDRESS, 

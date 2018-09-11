@@ -28,7 +28,7 @@ ytownmurders %>%
 
 #looking at solve rates per year
 ytownmurders %>%
-  group_by(year, solved_label) %>% 
+  group_by(year(ytownmurders$date), solved_label) %>% 
   summarize(total=n()) %>% 
   mutate(percent=round(total/sum(total)*100, 2)) %>% 
   filter(solved_label=="Solved") %>% 

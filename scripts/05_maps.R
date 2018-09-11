@@ -42,9 +42,9 @@ palette <- colorFactor(c("#13ED3F", "#DC143C"), domain=c("Solved", "Unsolved"))
 #created information for popups
 popupmurders <- paste0("<b>Date: </b>", as.character(ggmurders$date), "</br>",
                        "<b>Victim Name: </b>", as.character(ggmurders$v_name), "</br>",
-                       "<b>Victim Age: </b>", as.character(ggmurders$v_age), "</br>",
-                       "<b>Victim Gender: </b>", as.character(ggmurders$v_gender), "</br>",
-                       "<b>Victim Race: </b>", as.character(ggmurders$v_race))
+                       "<b>Age: </b>", as.character(ggmurders$v_age), "</br>",
+                       "<b>Gender: </b>", as.character(ggmurders$v_gender), "</br>",
+                       "<b>Race: </b>", as.character(ggmurders$v_race))
                       
 #map
 map <- leaflet(ggmurders) %>% 
