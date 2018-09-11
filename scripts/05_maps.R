@@ -33,6 +33,8 @@ youngstownloc <- geocode("Youngstown, OH")
 
 #joining all murders into one file
 ggmurders <- rbind(murders, murders2)
+ggmurders$address <- substr(ggmurders$address, 1, nchar(ggmurders$address)-16)
+
 
 library(leaflet)
 
@@ -41,6 +43,7 @@ palette <- colorFactor(c("#13ED3F", "#DC143C"), domain=c("Solved", "Unsolved"))
 
 #created information for popups
 popupmurders <- paste0("<b>Date: </b>", as.character(ggmurders$date), "</br>",
+                       "<b>Location: </b>", as.character(ggmurders$address), "</br>",
                        "<b>Victim Name: </b>", as.character(ggmurders$v_name), "</br>",
                        "<b>Age: </b>", as.character(ggmurders$v_age), "</br>",
                        "<b>Gender: </b>", as.character(ggmurders$v_gender), "</br>",
@@ -50,7 +53,7 @@ popupmurders <- paste0("<b>Date: </b>", as.character(ggmurders$date), "</br>",
 map <- leaflet(ggmurders) %>% 
   addProviderTiles(providers$CartoDB.Positron) %>% 
   setView(youngstownloc$lon, youngstownloc$lat, zoom=12) %>% 
-  addCircleMarkers(~lon, ~lat, weight=3, radius=4, color=~palette(solved_label),
+  addCircleMarkers(~lon, ~lat, weight=3, radius=5, color=~palette(solved_label),
                    popup=popupmurders, clusterOptions = markerClusterOptions(maxClusterRadius=1, spiderfyDistanceMultiplier=2),
                    stroke=F, fillOpacity=0.5) %>% 
   addLegend("bottomright", colors=c("#13ED3F", "#DC143C"), labels=c("Solved", "Unsolved"),
